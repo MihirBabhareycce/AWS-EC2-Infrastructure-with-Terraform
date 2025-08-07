@@ -25,8 +25,11 @@ Terraform debugging and state file handling
 
 # 💼 Why This Project Is Useful
 ✅ Shows how to automate AWS infrastructure from scratch
+
 ✅ Demonstrates best practices in Terraform
+
 ✅ Easy to replicate in real enterprise projects
+
 ✅ Ideal for cloud engineers, DevOps roles, and infrastructure automation portfolios
 
 <img width="2559" height="1244" alt="image" src="https://github.com/user-attachments/assets/27af8291-104a-42ee-a389-42a76b9ce317" />
