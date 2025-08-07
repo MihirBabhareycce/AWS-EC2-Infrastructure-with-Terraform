@@ -26,3 +26,5 @@ AWS networking concepts: VPC, subnet, IGW
 Security Group troubleshooting
 
 Terraform debugging and state file handling
+
+<img width="2559" height="1244" alt="image" src="https://github.com/user-attachments/assets/27af8291-104a-42ee-a389-42a76b9ce317" />
